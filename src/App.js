@@ -1,6 +1,8 @@
 import React from 'react';
 import './index.css';
 
+// Feature 1
+
 const App = () => {
   return (
     <div className='grid-container'>
