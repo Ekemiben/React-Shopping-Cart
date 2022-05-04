@@ -13,11 +13,11 @@ export class Products extends Component {
                              <img src={pro.image} alt={pro.title} ></img>
                              <p>{pro.title}</p>
                          </a>
-                         <div className='product-price'>
+                         <div className='product-price'> 
                              <div>
                                  {formatCurrency (pro.price)}
                              </div>
-                             <button className='btn-primary' >Add To Cart</button>
+                             <button onClick={()=> this.props.addToCart(pro)} className='btn-primary' >Add To Cart</button>
                          </div>
                      </div>
                  </li> 
