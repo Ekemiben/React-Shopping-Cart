@@ -3,7 +3,7 @@
     "products":[
        {
            
-           "-id": 1, 
+           "_id": 1, 
         "image": "/images/Product A.png",
         "title":"Dress 1",
         "description":"about dress 1",
@@ -11,43 +11,43 @@
         "price": 70
     },
        {
-           "-id": 2, 
+           "_id": 2, 
            "image": "/images/Product B.png",
-        "title":"Dress 1",
+        "title":"Dress 2 about dress 1 about dress 1",
         "description":"about dress 1",
         "avalaibleSize": ["X", "L", "XL", "XXL"],
         "price": 100
     },
        {
-           "-id": 3, 
+           "_id": 3, 
            "image": "/images/Product C.png",
-        "title":"Dress 1",
+        "title":"Dress 3",
         "description":"about dress 1",
         "avalaibleSize": ["X", "L", "XL", "XXL"],
         "price": 10
     },
        {
-           "-id": 4, 
+           "_id": 4, 
            "image": "/images/Product D.png",
-        "title":"Dress 1",
+        "title":"Dress 4",
         "description":"about dress 1",
         "avalaibleSize": ["X", "L", "XL", "XXL"],
         "price": 60
     },
     
        {
-           "-id": 4, 
+           "_id": 5, 
            "image": "/images/Product D.png",
-        "title":"Dress 1",
+        "title":"Dress 5",
         "description":"about dress 1",
         "avalaibleSize": ["X", "L", "XL", "XXL"],
         "price": 60
     },
     
        {
-           "-id": 4, 
+           "_id": 6, 
            "image": "/images/Product B.png",
-        "title":"Dress 1",
+        "title":"Dress 6",
         "description":"about dress 1",
         "avalaibleSize": ["X", "L", "XL", "XXL"],
         "price": 5
